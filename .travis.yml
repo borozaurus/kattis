@@ -1,9 +1,6 @@
 language: scala
 scala:
    - 2.11.6
-cache:
-  directories:
-   - $HOME/ADifferentProblem
 branches:
   only:
     - master
