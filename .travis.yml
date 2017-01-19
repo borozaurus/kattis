@@ -4,5 +4,5 @@ scala:
 branches:
   only:
     - master
-script: build.sh
+script: ./build.sh
     
