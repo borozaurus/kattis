@@ -7,5 +7,5 @@ cache:
 branches:
   only:
     - master
-script:
-    - cd $HOME/ADifferentProblem/; sbt test
+script: build.sh
+    
