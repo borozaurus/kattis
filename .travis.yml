@@ -8,4 +8,4 @@ branches:
   only:
     - master
 script:
-    - $HOME/ADifferentProblem/sbt test
+    - cd $HOME/ADifferentProblem/; sbt test
